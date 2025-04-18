@@ -1,1 +1,7 @@
-# Webscrapping
+# Webscrapping![1](https://github.com/user-attachments/assets/c7984e4a-bd8b-4b4b-a87b-2028d624c48e)
+![7](https://github.com/user-attachments/assets/a6e3c777-43d6-45fc-ab04-000704dc0129)
+![6](https://github.com/user-attachments/assets/b028348f-a1de-422b-a7cf-f0da6e5170d4)
+![5](https://github.com/user-attachments/assets/e9dd4513-47d2-4bbd-9944-2ae89bb72912)
+![4](https://github.com/user-attachments/assets/7c53e1a6-49f8-4828-a9b7-af6611eed904)
+![3](https://github.com/user-attachments/assets/b62518b4-cd6f-469c-8d6e-63738b71bc42)
+![2](https://github.com/user-attachments/assets/af79f3a0-f622-4c87-a313-c0d004b4bc26)
