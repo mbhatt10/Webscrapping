@@ -1,0 +1,24 @@
+# Web Scraping: Largest Automotive Suppliers
+
+This project uses Python to scrape data from the Wikipedia page on the **List of the Largest Automotive Suppliers**.
+
+ 
+[Wikipedia - List of the largest automotive suppliers](https://en.wikipedia.org/wiki/List_of_the_largest_automotive_suppliers)
+
+## 🛠 Tools Used
+- `requests` – to fetch the webpage
+- `BeautifulSoup` – to parse HTML
+- `pandas` – to clean and store the data
+
+## 📋 What it does
+- Scrapes the main table of automotive suppliers
+- Cleans and structures the data
+- Handles empty and mismatched rows
+- Outputs the data in a pandas DataFrame
+
+## 💾 Output
+You can save the final data as:
+- CSV: `df.to_csv("suppliers.csv", index=False)`
+- Excel: `df.to_excel("suppliers.xlsx", index=False)`
+
+ 
